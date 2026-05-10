@@ -1,11 +1,8 @@
 ## Hello World! I'm Camily 👋
 
-## 📊 GitHub Stats
+🎓 Computer Science student at the UFRRJ (Universidade Federal Rural do Rio de Janeiro) <br>
+🌱 Currently learning more about C, algorithms, and software development   
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=camilysa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilysa&layout=compact&theme=tokyonight" />
-</p>
-
-<br/>
-<br/>
+### 🌎 Connect with me
+- GitHub: camilysa
+- LinkedIn: www.linkedin.com/in/camilysa
