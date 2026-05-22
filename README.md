@@ -5,5 +5,5 @@
 🌱 Currently learning more about C, algorithms, and software development   
 
 <h2>Connect with me</h2>
-- GitHub: https://github.com/camilysa
+- GitHub: https://github.com/camilysa <br>
 - LinkedIn: www.linkedin.com/in/camilysa
