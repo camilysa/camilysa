@@ -64,11 +64,9 @@ Oi! Sou estudante de **Ciência da Computação na UFRRJ**, apaixonada por trans
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 estatísticas do github
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=camilysa&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilysa&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
