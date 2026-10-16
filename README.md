@@ -15,7 +15,7 @@
 
 ### sobre mim:
 
-Oi! Sou estudante de **Ciência da Computação na UFRRJ**, apaixonada por transformar dados brutos em decisões estratégicas. Gosto de unir lógica, programação e criatividade para resolver problemas reais de negócio. Atualmente, foco os meus estudos e projetos nas áreas de **Data Science, Engenharia de Dados e Análise de Negócios**.
+Oi! Sou estudante de **Ciência da Computação na UFRRJ**, apaixonada por transformar dados brutos em decisões estratégicas. Atualmente, foco os meus estudos e projetos nas áreas de **Data Science, Engenharia de Dados e Análise de Negócios**.
 
 </div>
 
